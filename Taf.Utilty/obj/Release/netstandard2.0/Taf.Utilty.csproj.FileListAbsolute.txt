@@ -1,0 +1,10 @@
+D:\WorkStation\Taf.Utility\Taf.Utilty\bin\Release\netstandard2.0\Taf.Utility.deps.json
+D:\WorkStation\Taf.Utility\Taf.Utilty\bin\Release\netstandard2.0\Taf.Utility.dll
+D:\WorkStation\Taf.Utility\Taf.Utilty\bin\Release\netstandard2.0\Taf.Utility.pdb
+D:\WorkStation\Taf.Utility\Taf.Utilty\obj\Release\netstandard2.0\Taf.Utilty.csproj.AssemblyReference.cache
+D:\WorkStation\Taf.Utility\Taf.Utilty\obj\Release\netstandard2.0\Taf.Utilty.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkStation\Taf.Utility\Taf.Utilty\obj\Release\netstandard2.0\Taf.Utilty.AssemblyInfoInputs.cache
+D:\WorkStation\Taf.Utility\Taf.Utilty\obj\Release\netstandard2.0\Taf.Utilty.AssemblyInfo.cs
+D:\WorkStation\Taf.Utility\Taf.Utilty\obj\Release\netstandard2.0\Taf.Utilty.csproj.CoreCompileInputs.cache
+D:\WorkStation\Taf.Utility\Taf.Utilty\obj\Release\netstandard2.0\Taf.Utility.dll
+D:\WorkStation\Taf.Utility\Taf.Utilty\obj\Release\netstandard2.0\Taf.Utility.pdb

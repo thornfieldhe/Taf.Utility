@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>net5.0;netstandard2.0</TargetFrameworks>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>何翔华自用库</Title>
+        <AssemblyVersion>2.0.1</AssemblyVersion>
+        <FileVersion>2.0.1</FileVersion>
+        <AssemblyName>Taf.Utility</AssemblyName>
+        <RootNamespace>Taf.Utility</RootNamespace>
+        <PackageId>Taf.Utility</PackageId>
+        <Authors>Taf.Utility</Authors>
+        <Company>Taf.Utility</Company>
+        <Product>Taf.Utility</Product>
+        <PackageVersion>2.0.1</PackageVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.CodeAnalysis.Common" Version="3.11.0" />
+        <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="3.11.0" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+        <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+        <PackageReference Include="System.Reflection" Version="4.3.0" />
+    </ItemGroup>
+
+</Project>
